@@ -1,7 +1,7 @@
 === SL Currency Symbol Changer ===
 
 Author: Origyn.Company
-Author URI: https://origynsystems.com
+Author URI: https://origyn.company
 Tags: currency, symbol, Rs
 Requires at least: 3.3
 Tested up to: 6.4
